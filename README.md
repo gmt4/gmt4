@@ -1,5 +1,4 @@
 
-
 Hey! I'm [@gmt4](https://twitter.com/gmt4) 👋
 
 I'm a software developer from EU 🇪🇺. 
@@ -20,7 +19,4 @@ You can find me on:
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-
-gmt4/gmt4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
 --->
