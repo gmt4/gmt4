@@ -10,7 +10,7 @@ If my open source projects are useful for your product/company you can also spon
 
 You can find me on:
 
-- My website: [gmt4.github.io](gmt4.github.io)
+- My website: [gmt4.github.io](https://gmt4.github.io)
 - GitHub as [@gmt4](https://twitter.com/gmt4) (you are here)
 
 <!---
