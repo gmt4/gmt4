@@ -11,12 +11,12 @@ Find me on:
 <td>
 
 ![Contribution Stats](https://github-readme-stats.vercel.app/api?username=gmt4&show_icons=true&include_all_commits=true&custom_title=GitHub+Stats&theme=responsive)
-  
+
 </td>
 <td>
-      
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=gmt4)
- 
+
+[Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gmt4&langs_count=10)
+
 </td>
 </tr>
 </thead>
