@@ -1,22 +1,23 @@
 
-Hey! I'm [@gmt4](https://twitter.com/gmt4) 👋
+I'm a software developer from EU 🇪🇺.
 
-I'm a software developer from EU 🇪🇺. 
-
-I'm currently dedicating a high percentage of my time to open source projects. At the same time, I'm also helping a limited number of teams and organizations as an external consultant. If you would like to have my help with your team and product, feel free to contact me. 🤓
-
-If my open source projects are useful for your product/company you can also sponsor my work on them. 
-☕
-
-You can find me on:
-
+Find me on:
 - My website: [gmt4.github.io](https://gmt4.github.io)
 - GitHub as [@gmt4](https://twitter.com/gmt4) (you are here)
 
-<!---
-- 👋 Hi, I’m @gmt4
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
---->
+<table>
+<thead>
+<tr>
+<td>
+
+![Contribution Stats](https://github-readme-stats.vercel.app/api?username=gmt4&show_icons=true&include_all_commits=true&custom_title=GitHub+Stats&theme=responsive)
+  
+</td>
+<td>
+      
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=gmt4)
+ 
+</td>
+</tr>
+</thead>
+</table>
