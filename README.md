@@ -15,7 +15,7 @@ Find me on:
 </td>
 <td>
 
-[Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gmt4&langs_count=10)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gmt4)
 
 </td>
 </tr>
