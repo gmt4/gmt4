@@ -2,8 +2,8 @@
 I'm a software developer from EU 🇪🇺.
 
 Find me on:
-- My website: [gmt4.github.io](https://gmt4.github.io)
-- GitHub as [@gmt4](https://twitter.com/gmt4) (you are here)
+- GitHub page [gmt4.github.io](https://gmt4.github.io)
+- GitHub profile [@gmt4](https://twitter.com/gmt4) (you are here)
 
 <table>
 <thead>
