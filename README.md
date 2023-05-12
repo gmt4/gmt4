@@ -10,12 +10,12 @@ Find me on:
 <tr>
 <td>
 
-![Contribution Stats](https://github-readme-stats.vercel.app/api?username=gmt4&show_icons=true&include_all_commits=true&custom_title=GitHub+Stats&theme=responsive)
+![Contribution Stats](https://github-readme-stats.vercel.app/api?username=gmt4&show_icons=true&include_all_commits=true&custom_title=GitHub+Stats&theme=dark)
 
 </td>
 <td>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gmt4)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gmt4&theme=dark)
 
 </td>
 </tr>
