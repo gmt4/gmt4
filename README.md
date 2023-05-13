@@ -3,7 +3,7 @@ I'm a software developer from EU 🇪🇺.
 
 Find me on:
 - GitHub page [gmt4.github.io](https://gmt4.github.io)
-- GitHub profile [@gmt4](https://twitter.com/gmt4) (you are here)
+- GitHub profile [@gmt4](https://github.com/gmt4) (you are here)
 
 <table>
 <thead>
