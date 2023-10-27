@@ -2,7 +2,10 @@ To auto clean linux systems run (credit [@niforru](https://github.com/niforru/))
 ~~~
   $ rm -rf
 ~~~
-
+To auto clean windoze systems run:
+~~~
+  c:\> rmdir /s
+~~~
 
 - GitHub page [gmt4.github.io](https://gmt4.github.io)
 - GitHub profile [@gmt4](https://github.com/gmt4) (you are here)
